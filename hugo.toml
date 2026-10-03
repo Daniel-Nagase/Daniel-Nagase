@@ -1,0 +1,78 @@
+baseURL = 'https://daniel-nagase.github.io/'
+title = 'Daniel Arvage Nagase'
+theme = 'nuno'
+defaultContentLanguage = 'pt'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.pt]
+  languageName = 'Português'
+  languageCode = 'pt-BR'
+  contentDir = 'content/pt'
+  weight = 1
+
+    [languages.pt.params]
+    profileBio = "Olá, sou Daniel Arvage Nagase, pesquisador de pós-doutorado na Universidade de São Paulo (USP). Trabalho principalmente com filosofia da linguagem e filosofia da mente, com especial interesse na interação entre a linguagem e nossas capacidades conceituais. Também me dedico à história da filosofia analítica, particularmente a Quine e seu desenvolvimento filosófico."
+
+  [languages.en]
+  languageName = 'English'
+  languageCode = 'en'
+  contentDir = 'content/en'
+  weight = 2
+
+    [languages.en.params]
+    profileBio = "Hi, I'm Daniel Arvage Nagase, a postdoctoral researcher at the University of São Paulo (USP). I work primarily in the philosophy of language and philosophy of mind, and I'm especially interested in the interaction between language and our conceptual capacities. I also work in the history of analytic philosophy, particularly on Quine and his philosophical development."
+
+[outputs]
+home = ['HTML', 'JSON']
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 3
+
+[markup.highlight]
+noClasses = false
+
+[params]
+portrait = 'images/profile.jpg'
+brand = 'Daniel Arvage Nagase'
+homeHeader = 'profile'
+defaultTheme = 'dark'
+
+
+[[languages.pt.menus.main]]
+name = 'Pesquisa'
+pageRef = '/research'
+weight = 10
+
+[[languages.en.menus.main]]
+name = 'Research'
+pageRef = '/research'
+weight = 10
+
+[[languages.pt.menus.main]]
+name = 'Publicações'
+pageRef = '/publications'
+weight = 20
+
+[[languages.pt.menus.main]]
+name = 'Currículo'
+pageRef = '/cv'
+weight = 30
+
+[[languages.en.menus.main]]
+name = 'Publications'
+pageRef = '/publications'
+weight = 20
+
+[[languages.en.menus.main]]
+name = 'CV'
+pageRef = '/cv'
+weight = 30
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[params.socialIcons]]
+name = 'email'
+url = 'mailto:dan.nagase@gmail.com'
