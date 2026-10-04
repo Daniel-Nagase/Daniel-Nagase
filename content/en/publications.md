@@ -87,7 +87,7 @@ In this article, I will offer some remarks about Tarski’s nominalism. First, I
 
 *Revista de Filosofia Moderna e Contemporânea* (2018).
 
-[Published article](https://revistas.pucsp.br/index.php/cognitiofilosofia/article/view/58224/43700) · [PDF](../../papers/nagase-remarks-tarski-nominalism.pdf)
+[Published article](https://periodicos.unb.br/index.php/fmc/article/view/19014) · [PDF](../../papers/nagase-mathematical-concepts.pdf)
 
 <details>
 <summary>Show Abstract</summary>

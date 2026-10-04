@@ -60,7 +60,7 @@ Neste capítulo, examino a persistente dificuldade de Quine com os dados dos sen
 
 
 
-[Published article](https://doi.org/10.1007/s11229-026-05802-8) · [PDF](../../papers/nagase-quine-social-art.pdf)
+[Artigo publicado](https://doi.org/10.1007/s11229-026-05802-8) · [PDF](../../papers/nagase-quine-social-art.pdf)
 
 
 
@@ -86,7 +86,7 @@ Quine é geralmente considerado um defensor paradigmático da ideia de que a lin
 
 
 
-[Published article](https://periodicos.ufsc.br/index.php/principia/article/view/103531) · [PDF](../../papers/nagase-intimate-harmony.pdf)
+[Artigo publicado](https://periodicos.ufsc.br/index.php/principia/article/view/103531) · [PDF](../../papers/nagase-intimate-harmony.pdf)
 
 
 
@@ -110,7 +110,7 @@ Este artigo defende uma mudança de foco no debate sobre o conceitualismo de McD
 
 
 
-[Published article](https://link.springer.com/article/10.1007/s11245-025-10294-1) · [PDF](../../papers/nagase-speaking-the-truth.pdf)
+[Artigo publicado](https://link.springer.com/article/10.1007/s11245-025-10294-1) · [PDF](../../papers/nagase-speaking-the-truth.pdf)
 
 
 
@@ -136,7 +136,7 @@ Neste artigo, examino o surpreendente argumento de Davidson, em suas John Locke 
 
 
 
-[Published article](https://revistas.pucsp.br/index.php/cognitiofilosofia/article/view/58224/43700) · [PDF](../../papers/nagase-remarks-tarski-nominalism.pdf)
+[Artigo publicado](https://revistas.pucsp.br/index.php/cognitiofilosofia/article/view/58224/43700) · [PDF](../../papers/nagase-remarks-tarski-nominalism.pdf)
 
 
 
@@ -161,8 +161,7 @@ Neste  artigo,  farei  algumas  observações  sobre  o  nominalismo  de  Tarski
 
 
 
-[Published article](https://revistas.pucsp.br/index.php/cognitiofilosofia/article/view/58224/43700) · [PDF](../../papers/nagase-remarks-tarski-nominalism.pdf)
-
+[Artigo publicado](https://periodicos.unb.br/index.php/fmc/article/view/19014) · [PDF](../../papers/nagase-mathematical-concepts.pdf)
 
 
 <details>
